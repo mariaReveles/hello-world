@@ -1,2 +1,2 @@
 hello!
-This is a practice for learning to use git on temrinal.
+This is a practice for learning to use git on terminal.
